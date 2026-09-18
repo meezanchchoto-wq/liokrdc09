@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="❤️mega tube 🧡">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://web.facebook.com/photo/?fbid=122113719711438005&set=a.122113713753438005">
+    <meta property="og:image" content="https://go.skimresources.com/?id=130832X1595857&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fwww.gminsidenews.com%2Fthreads%2Fnew-generation-gm-light-duty-pickups-will-bypass-hybrid-option.311535%2F&url=https%3A%2F%2Fweb.facebook.com%2Fphoto%2F%3Ffbid%3D122113720557438005%26set%3Da.122113713753438005&xs=1&xtz=-300&xuuid=9a0a929a0e2eadde345bee9742afe832&xjsf=other_click__auxclick%20%5B2%5Dhttps://go.skimresources.com/?id=130832X1595857&isjs=1&jv=15.7.1&sref=https%3A%2F%2Fwww.gminsidenews.com%2Fthreads%2Fnew-generation-gm-light-duty-pickups-will-bypass-hybrid-option.311535%2F&url=https%3A%2F%2Fweb.facebook.com%2Fphoto%2F%3Ffbid%3D122113720557438005%26set%3Da.122113713753438005&xs=1&xtz=-300&xuuid=9a0a929a0e2eadde345bee9742afe832&xjsf=other_click__auxclick%20%5B2%5D">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
